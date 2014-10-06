@@ -8,12 +8,14 @@ List of tools and packages I use for programming activity
 - karma
 
 ## Atom packages
-- linter
 - script
+- linter
+- linter-jshint
 - minimap
 - git-plus
 - go-plus
 - go-format
+- go-to-line
 - language-go
 - refactor
 - js-refactor
