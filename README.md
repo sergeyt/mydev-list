@@ -22,3 +22,4 @@ List of tools and packages I use for programming activity
 - go-plus
 - go-format
 - go-to-line
+- npm-install
